@@ -1,0 +1,16 @@
+
+.active {
+	background-color: #A9A9A9;
+}
+
+.success {
+	background-color: #00FF00; 
+}
+
+.warning {
+	background-color: #FFA500; 
+}
+
+.danger {
+	background-color: #FF0000; 
+}
