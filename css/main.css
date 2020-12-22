@@ -4,13 +4,24 @@
 }
 
 .success {
-	background-color: #00FF00; 
+	background-color: #00FF00;
 }
 
 .warning {
-	background-color: #FFA500; 
+	background-color: #FFA500;
 }
 
 .danger {
-	background-color: #FF0000; 
+	background-color: #FF0000;
+}
+
+.fakeimg {
+	height: 200px;
+	background: #aaa;
+}
+
+.avatarimg {
+	height: 200px;
+	align-items: center;
+	background: #aaa;
 }
