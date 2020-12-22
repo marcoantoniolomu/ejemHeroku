@@ -15,8 +15,9 @@
 	background-color: #FF0000;
 }
 
-.fakeimg {
+.serviciosimg {
 	height: 200px;
+	align-items: center;
 	background: #aaa;
 }
 
